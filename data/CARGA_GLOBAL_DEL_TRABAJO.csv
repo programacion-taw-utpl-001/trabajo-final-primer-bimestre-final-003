@@ -1,6 +1,5 @@
-;"HORAS PROMEDIO A LA SEMANA  
-MUJERES";"HORAS PROMEDIO A LA SEMANA  
-HOMBRES";;;
-nacional;77;62;;;
-area urbana;75;63;;;
-area rural;83;60;;;
+"AREA","HORAS_PROMEDIO_A_LA_SEMANA_MUJERES","HORAS_PROMEDIO_A_LA_SEMANA_
+HOMBRES"
+"nacional","77","62"
+"area urbana","75","63"
+"area rural","83","60"
